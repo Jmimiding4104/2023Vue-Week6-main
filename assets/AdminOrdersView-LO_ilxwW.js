@@ -1,1 +1,0 @@
-import{_ as e,o as r,c as t}from"./index-BgkBJgaK.js";const n={data(){return{orders:[],pagination:{}}}};function o(a,s,c,p,_,d){return r(),t("h3",null,"後台訂單1")}const f=e(n,[["render",o]]);export{f as default};
